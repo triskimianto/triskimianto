@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, web, & mobile programming
 <!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me by email in riskimianto@gmail.com or visit my website at titoriskimianto.my.id
+- 📫 You can reach me by email in riskimianto@gmail.com or visit my website at titoriskimianto.my.id
 - 💙 Cheers!
 <!---
 triskimianto/triskimianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
